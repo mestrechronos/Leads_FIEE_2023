@@ -1,11 +1,11 @@
 # Leads_FIEE_2023
 Estudo sobre todos os leads capturados pela equipe comercial da empresa durante a feira FIEE 2023 realizado nos dias 18 a 21 de Julho. 
 
-Durante os 4 dias de feira, houve uma escala da equipe comercial cujo com sistema disponibilizado pela organização, poderia fazer o scan da credencial dos visitantes, os quais eram coletados todos os dados do mesmo como: Nome, Sobrenome, E-mail, Telefone, Data e hora da captura.
+Durante os 4 dias de feira, houve uma escala da equipe comercial. Com sistema disponibilizado pela organização, eles poderiam fazer o scan da credencial dos visitantes, os quais eram coletados dados do mesmo como: Nome, Sobrenome, E-mail, Telefone, Data e hora da captura.
 
-Fiz todo o tratamento de dados no código pois ia atualizando o estudo conforme os dias da feira iam rolando, então só substituia a base de dados a cada dia.
+Fiz todo o tratamento de dados no código pois ia atualizando o estudo conforme os dias da feira iam rolando. Então só substituia a base de dados a cada dia.
 
-Claro que aqui, para respeitar toda questão de LGPD, todos os dados pessoais e detalhes foram removidos. Porém aqui está todo estudo feito com o desempenho de cada vendedor durante os dias de feira. Além disso um fiz um acatado geral buscando responder as seguintes perguntas:
+Claro que aqui, para respeitar toda questão de LGPD, todos os dados pessoais e detalhes foram removidos. Porém aqui está todo estudo feito com o desempenho de cada vendedor durante os dias de feira e onde busquei responder as seguintes perguntas:
 - Total de scans que foram realizados por dia
 - Quais os horários de picos onde mais ocorreram os scans
 - Quantidade de scans feitos por vendedores e a % de participação de cada um no total
@@ -14,7 +14,7 @@ Claro que aqui, para respeitar toda questão de LGPD, todos os dados pessoais e 
 - Total de Scans por estados
 - E total de scan por cidade e país
 
-A partir dela pude chegar as seguintes conclusões junto a diretoria comercial:
+Assim pude chegar as seguintes conclusões junto a diretoria comercial:
 
 1 - Identificação dos vendedores mais ativos: A análise permitiu identificar quais vendedores foram mais ativos para a organização de futuras escalas em feiras, visando verificar se realizaram os scans de forma adequada ou apenas por obrigação. O "Vendedor I" se destacou, com 32,9% de scans realizados, sendo somente 12% deles tiveram uma abordagem comercial adequada. Logo cabe um treinamento mais adequado a todos para possam focar mais na qualidade do lead.
 
