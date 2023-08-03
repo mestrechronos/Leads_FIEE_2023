@@ -1,6 +1,8 @@
 # Leads_FIEE_2023
 Estudo sobre todos os leads capturados pela equipe comercial da empresa durante a feira FIEE 2023 realizado nos dias 18 a 21 de Julho. 
 
+Utilizei as bibliotecas Pandas, Matplot, Seaborn, Geopandas e o Warnings - Esse último foi um recurso para tirar notificações de erros relacionado a formatação de fontes que só poluiam o estudo e não tinham porque estar aparecendo.
+
 Durante os 4 dias de feira, houve uma escala da equipe comercial. Com sistema disponibilizado pela organização, eles poderiam fazer o scan da credencial dos visitantes, os quais eram coletados dados do mesmo como: Nome, Sobrenome, E-mail, Telefone, Data e hora da captura.
 
 Fiz todo o tratamento de dados no código pois ia atualizando o estudo conforme os dias da feira iam rolando. Então só substituia a base de dados a cada dia.
