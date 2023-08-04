@@ -28,4 +28,6 @@ Assim pude chegar as seguintes conclusões junto a diretoria comercial:
 
 5 - O estudo revelou uma leitura anômala de um visitante da China, que se mostrou uma empresa com potencial para se tornar uma parceira interessante.
 
-Ah sim, além disso, fora da área de dados, eu fui o responsável por todo projeto do stand, incluso recursos multimídias e produções para o mesmo - E ai que mora meu diferencial com a minha experiência na área de Marketing, além de todo cuidado com o branding da empresa consigo fazer essa tratativa de dados que, como já sabemos, é essencial para tomada de decisões, incluso a já dita compra de espaço em uma feira concorrente. Afinal, esses espaços em feira + projeto de stand + terceiros e seja lá o que for preciso demandam um investimento gigantesco. Então é preciso ter essa base de inteligência para que possamos ter resultados palpáveis que justifiquem todo esse trabalho.
+Ah sim, além disso, fora da área de dados, eu fui o responsável por todo projeto do stand, incluso recursos multimídias e produções para o mesmo - E ai que mora meu diferencial com a minha experiência na área de Marketing, além de todo cuidado com o branding da empresa consigo fazer essa tratativa de dados que, como já sabemos, é essencial para tomada de decisões, incluso a já dita compra de espaço em uma feira concorrente. Afinal, esses espaços em feira + projeto de stand + terceiros demandam um investimento gigantesco.
+
+Então é preciso ter essa base de inteligência para que possamos ter resultados palpáveis que justifiquem todo esse trabalho.
